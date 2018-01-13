@@ -1,4 +1,4 @@
-package sfg;
+package kube;
 
 import io.kubernetes.client.ApiClient;
 import io.kubernetes.client.ApiException;
